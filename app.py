@@ -35,7 +35,7 @@ except Exception as e:
     )
     st.stop()
 
-MODEL = "gemini-3-flash-preview"
+MODEL = "gemini-2.5-flash"
 
 # ============================================================
 # SESSION STATE
